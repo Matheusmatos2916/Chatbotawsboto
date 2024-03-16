@@ -1,1 +1,3 @@
-# Chatbotawsboto
+# Desenvolvimento de Chatbots com o Amazon Lex + Boto3
+
+- Com o avanço da inteligência artificial, os chatbots se tornaram uma ferramenta comum para interações automáticas e personalizadas com os usuários. Este artigo explora o desenvolvimento de chatbots utilizando duas poderosas ferramentas da Amazon Web Services (AWS): o Amazon Lex e o Boto3. O Amazon Lex é um serviço para criar interfaces de conversação de forma rápida e fácil, enquanto o Boto3 é uma biblioteca Python que permite interagir com serviços da AWS, incluindo o Lex. Demonstraremos como combinar essas ferramentas para criar e implantar chatbots eficientes e escaláveis.
